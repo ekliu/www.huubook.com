@@ -1,5 +1,4 @@
 <?php
-//test
 
 use Phalcon\Di\FactoryDefault\Cli as FactoryDefault;
 use Phalcon\Cli\Console as ConsoleApp;
